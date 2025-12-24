@@ -57,19 +57,19 @@ This Netflix Clone is a pixel-perfect recreation of the Netflix user interface, 
 <div align="center">
 
 #### Desktop View
-![Desktop Hero Section](<img width="1919" height="674" alt="image" src="https://github.com/user-attachments/assets/e392c6be-fe74-494a-89df-7a405b8b8646" />
+![Desktop Hero Section](screenshots/desktop-home.png
 )
 *Hero section with featured content*
 
 #### Content Rows
-![Content Rows](<img width="1892" height="498" alt="image" src="https://github.com/user-attachments/assets/3972b243-6023-4bc3-b8c0-021fb1d5adff" />
+![Content Rows](screenshots/features.png
 )
 *Scrollable movie categories*
 
 #### Mobile Responsive
-![Mobile View](<img width="484" height="646" alt="image" src="https://github.com/user-attachments/assets/4e791a8b-aefa-40e1-a6b7-fffcadfefc0e" />
+![Mobile View](screenshots/mobile-view.png
 )
-*Fully responsive mobile layout*
+
 
 </div>
 
